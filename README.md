@@ -10,4 +10,4 @@ It
 
 **It's really awesome**
 
-![alt text]([image.jpg](https://github.com/Introduction-to-AI-ML/jy46-journal/blob/main/image.jpg?raw=true)
+![alt text]([image.jpg]([https://github.com/Introduction-to-AI-ML/jy46-journal/blob/main/image.jpg?raw=true](https://github.com/Introduction-to-AI-ML/jy46-journal/blob/main/image.jpg?raw=true))
